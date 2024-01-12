@@ -1,2 +1,3 @@
-# FM-Demodulator-SDR
-FM broadcasts demodulate with RTL SDR and Gnuradio Companion
+# FM-Demodulator-SDR 📻
+# Simple FM Broadcast Receiver with GNU Radio
+Just FM with RTL SDR and some few options like waterfall and peak detect...   
